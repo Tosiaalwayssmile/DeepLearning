@@ -9,7 +9,7 @@ a = numpy.random.rand(1000000)
 b = numpy.random.rand(1000000)
 
 tic = time.time()
-c = numpy.dot(a,b) #It is inner product of vectors
+c = numpy.dot(a,b) #'c' is an inner product of vectors
 toc = time.time()
 VecVer = 1000*(toc-tic)
 print (c)
