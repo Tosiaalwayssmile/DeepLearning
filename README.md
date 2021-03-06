@@ -5,4 +5,5 @@ This repository contains all my solutions for course [Neural Networks and Deep L
 
 - Course 1: Neural Networks and Deep Learning
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/Tosiaalwayssmile/DeepLearning/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week2/Programming%20Assignments)
-  - Week 3
+  - [Week 3 - PA 2 - Planar Data Classification With One Hidden Layer](https://github.com/Tosiaalwayssmile/DeepLearning/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week3/Programming%20Assignments)
+ 
